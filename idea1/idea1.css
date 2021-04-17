@@ -1,0 +1,30 @@
+#main{
+    padding-top: 13%;
+}
+.button{
+    background-color: #0400ff; /* blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 30%;
+    border-radius: 8px;
+}
+h1{
+    text-shadow: 3px 3px #008cff;
+    font: Copperplate;
+}
+button{
+    box-shadow: 4px 4px #008cff;
+}
+h4{
+    text-shadow: 1px 1px #008cff;
+}
+#text{
+    color:#ff0000
+}
